@@ -1,7 +1,7 @@
 {
   "name": "mi-primera-pagina",
   "version": "0.1.0",
-  "homepage": "https://TU-USUARIO.github.io/mi-react-app",
+  "homepage": "https://SamuelAlmendariz.github.io/mi-primera-pagina",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
